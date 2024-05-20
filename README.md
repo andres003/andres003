@@ -2,12 +2,12 @@
 
 ## Sobre mí
 
-Soy un joven apasionado por la programación. Aunque no cuento con certificaciones oficiales, llevo practicando la programación desde los 16 años. Me encanta aprender nuevas tecnologías y resolver problemas complejos. Me considero una persona humilde y me esfuerzo al máximo en todo lo que hago.
-Tecnico en Sistemas, y actualmente en formacion para el titulo de Ingeniero en Sistemas
+Soy un joven apasionado por la programación 💻👽. Aunque no cuento con certificaciones oficiales, llevo practicando la programación desde los 16 años. Me encanta aprender nuevas tecnologías y resolver problemas complejos. Me considero una persona humilde y me esfuerzo al máximo en todo lo que hago.
+Tecnico en Sistemas, y actualmente en formacion para el titulo de Ingeniero en Sistemas 🏁✨
 
 ## Habilidades
 
-- **Lenguajes de Programación:** JavaScript, Python, C+, C#, Java, PHP (Basico), SQL, Arduino, R
+- **Lenguajes de Programación:** JavaScript, Python, C+, C#, Java, PHP (Basico), SQL, Arduino, R 
 - **Desarrollo Web:** HTML, CSS, Bootstrap, SASS, Angular, ASP.NET (Enfocado a la Web), NodeJS
 - **Bases de Datos:** MySQL, MongoDB, SQLite, Oracle, SQL Server, PostgreSQL
 - **Otras Tecnologías y Habilidades:** Git,  Conocimiento de técnicas de cifrado y protocolos de autenticación (JWT, OAuth), AWS, Fundamentos de Redes, Metodologias Agiles (Scrum, XP)
@@ -28,8 +28,8 @@ Primer proyecto Web realizado con tecnologias de ASP.NET
 
 ## Contacto
 
-- **Email:** andre.fnc003@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/andrés-felipe-narváez-cabrera-a61a3b219/
+- **Email:** [andre.fnc003@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- **LinkedIn:** [https://www.linkedin.com/in/andrés-felipe-narváez-cabrera-a61a3b219/]([https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))
 
 ## ¡Vamos a Colaborar!
 
